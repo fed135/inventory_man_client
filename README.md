@@ -1,16 +1,20 @@
-# inferno-boilerplate
+# Inventory management client 
 
 ## Overview
 
-This is a very basic boilerplate example for people wanting to get started with Inferno. This boilerplate uses `inferno@beta36`, `webpack`, `babel` and the `babel-plugin-inferno` JSX Babel plugin.
-This boilerplate shows how to use `inferno-router` in a very simple way.
+This is a very basic inventory management interface built from https://github.com/infernojs/inferno-boilerplate
 
-## Getting started
+I'm doing this project for 2 reasons:
 
-Clone this repository locally and then run `npm install`.
+1- Provide a customizable and lightweight tool for my wife to manage her Tupperware inventory
+2- A chance for me to learn React/Inferno
 
-To run the example app, run `npm start`. View `http://localhost:8080` in your browser to see the boilerplate example.
+## Running the client
+
+`npm start`. 
+
+Then open `http://localhost:8080` in your browser.
 
 ## Requirements
 
-Required NodeJS v6+ to use `inferno-boilerplate`.
+Required NodeJS v6+
