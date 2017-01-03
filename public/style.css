@@ -1,0 +1,21 @@
+#left-menu {
+	background-color: #333;
+	color: #f4f4f4;
+	height: 100%;
+    position: fixed;
+}
+
+th {
+	padding:10px;
+	user-select: none;
+}
+
+th:hover {
+	cursor: pointer;
+	background-color: #f4f4ff;
+}
+
+.taxes {
+	font-size:13px;
+	color:#AA8866;
+}
