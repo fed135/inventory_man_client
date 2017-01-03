@@ -4,7 +4,7 @@
 
 This is a very basic inventory management interface built from https://github.com/infernojs/inferno-boilerplate
 
-I'm doing this project for 2 reasons:
+## Why
 
 1- Provide a customizable and lightweight tool for my wife to manage her Tupperware inventory
 
@@ -12,7 +12,7 @@ I'm doing this project for 2 reasons:
 
 ## Running the client
 
-`npm start`. 
+`npm start`
 
 Then open `http://localhost:8080` in your browser.
 
